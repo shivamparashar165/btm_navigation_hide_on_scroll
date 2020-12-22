@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A GFG App</string>
+    <string name="practice">Practice</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="all_articles">All Articles</string>
+    <string name="geeksforgeeks">GeeksForGeeks</string>
+    <string name="dsa_article">DSA Article</string>
+    <string name="dsa_sample_article">Android Sample Article</string>
+    <string name="read">Read</string>
+</resources>
